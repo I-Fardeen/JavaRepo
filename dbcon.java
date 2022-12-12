@@ -1,5 +1,3 @@
-package JavaRepo;
-
 import java.sql.*;
 import JavaRepo.EmployeeProject.constrng;
 

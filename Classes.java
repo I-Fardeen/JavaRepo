@@ -1,6 +1,5 @@
-package JavaRepo.EmployeeProject.src;
 import java.util.Random;
-import JavaRepo.dbcon;
+import dbcon;
 public class Classes{
     public interface iWallet{
         double amount = 0;
